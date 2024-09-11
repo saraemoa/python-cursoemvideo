@@ -1,0 +1,5 @@
+print('========== DESAFIO 002 ==========')
+dia = input('Dia: ')
+mes = input('Mes: ')
+ano = input('Ano: ')
+print('A data digitada foi o dia', dia, 'de', mes, 'de', ano)
